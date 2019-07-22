@@ -1,8 +1,8 @@
 # job-search
 Aplicação que através de WebScrapping retorna vagas do Ifood, Sympla, Wavy e Vagas.com.
 
-# job-search
-Stack: Javascript no Node com pacotes Cheerio e Request-Promise.
+# Stack
+Javascript no Node com pacotes Cheerio e Request-Promise.
 
 # Objetivos
 Aprender a fazer WebScrapping e aplicá-lo em algum site de verdade para se acostumar com o cheerio também.
