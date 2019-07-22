@@ -26,6 +26,8 @@ Aprender a fazer WebScrapping e aplicá-lo em algum site de verdade para se acos
 
 4.Na linha de comando quando dentro da pasta efetuar os seguintes passos:
 
-4.1 npm start or yarn start para fazer download dos pacotes necessário (no caso, cheerio e request-promise)
+4.1 npm init or yarn init
 
-4.2 node script.js para rodar a aplicação
+4.2 npm start or yarn start para fazer download dos pacotes necessário (no caso, cheerio e request-promise)
+
+4.3 node script.js para rodar a aplicação
